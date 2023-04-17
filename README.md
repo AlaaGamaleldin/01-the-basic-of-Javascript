@@ -1,1 +1,1 @@
-# the-basic-of-dic
+# the-basic-of-javascript
